@@ -20,7 +20,7 @@
     "invariant": "^2.2.2",
     "is-empty-object": "^1.1.1",
     "pretty-format": "^19.0.0",
-    "react": "^15.5.4",
+    "react": "16.8.3",
     "react-test-renderer": "^15.5.4",
     "virtual-dom": "^2.1.1"
   },
